@@ -1,3 +1,5 @@
+/**** This file is unnecessary but was the first one with the models, hence I'm leaving it *****/
+
 const { Sequelize, DataTypes, Model } = require('sequelize')
 const db = require('../db/db')
 
